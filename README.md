@@ -1,1 +1,1 @@
-# -kolsk-projekt
+# skolsky projekt
